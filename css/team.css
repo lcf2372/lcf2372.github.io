@@ -1,0 +1,28 @@
+/*
+Author: Abinesh Pandi
+Date: 04/12/2023
+File Name: team.css
+*/
+
+#who-we-are {
+    margin-top: 30px;
+}
+
+.team-category {
+    margin-top: 20px;
+}
+
+.team-category img {
+    max-width: 100%;
+    height: auto;
+}
+
+/* Style pseudo-classes for navigation links */
+nav a:hover {
+    text-decoration: underline;
+}
+
+nav a.active {
+    color: #FFD700;
+    text-decoration: underline;
+}
